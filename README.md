@@ -36,10 +36,10 @@ The game provides hints if the guess is too high or too low until the correct nu
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/KhushiGanesh/guess_the_number.git
+git clone https://github.com/PavanPG42/Guessing_Game
 cd guess_the_number
 
 
 👩‍💻 Author
-Khushi Ganesh Palankar
+Pavan Prashanth Gaonkar
 
